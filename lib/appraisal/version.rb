@@ -1,3 +1,3 @@
 module Appraisal
-  VERSION = '1.1.0-beta'.freeze
+  VERSION = '1.1.0'.freeze
 end
